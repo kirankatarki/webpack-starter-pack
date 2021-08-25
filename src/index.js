@@ -1,9 +1,15 @@
 import _ from 'lodash';
 import printMe from './print.js'
-// import './style.scss';
-// import Icon from './icon.png';
-// import Data from './data.xml';
-// import Notes from './data.csv';
+import '@popperjs/core';
+import 'bootstrap';
+import './style.scss';
+import 'slick-carousel/slick/slick.css'
+import 'slick-carousel/slick/slick-theme.css'
+import $ from 'jquery';
+import 'slick-carousel';
+
+import { Linear } from 'gsap';
+import ScrollMagic from 'scrollmagic';
 
 function component() {
     const element = document.createElement('div');
@@ -24,5 +30,9 @@ function component() {
     // console.log(Notes);
     return element;
   }
-  
+  console.log('run index');
   document.body.appendChild(component());
+
+  $(() => {
+    $('.your-class').slick();
+  });

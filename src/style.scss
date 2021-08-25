@@ -1,5 +1,6 @@
+@import "~bootstrap/scss/bootstrap";
+
 $body-color: red;
 .hello{
     color: $body-color;
-    background: url('./icon.png');
 }
