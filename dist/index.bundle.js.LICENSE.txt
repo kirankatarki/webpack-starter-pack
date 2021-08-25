@@ -1,8 +1,58 @@
 /*!
+   * GSAP 3.7.1
+   * https://greensock.com
+   *
+   * @license Copyright 2008-2021, GreenSock. All rights reserved.
+   * Subject to the terms at https://greensock.com/standard-license or for
+   * Club GreenSock members, the agreement issued with that membership.
+   * @author: Jack Doyle, jack@greensock.com
+  */
+
+/*!
   * Bootstrap v5.1.0 (https://getbootstrap.com/)
   * Copyright 2011-2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
+
+/*!
+ * GSAP 3.7.1
+ * https://greensock.com
+ *
+ * @license Copyright 2008-2021, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for
+ * Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+*/
+
+/*!
+ * ScrollMagic v2.0.8 (2020-08-14)
+ * The javascript library for magical scroll interactions.
+ * (c) 2020 Jan Paepke (@janpaepke)
+ * Project Website: http://scrollmagic.io
+ * 
+ * @version 2.0.8
+ * @license Dual licensed under MIT license and GPL.
+ * @author Jan Paepke - e-mail@janpaepke.de
+ *
+ * @file Debug Extension for ScrollMagic.
+ */
+
+/*!
+ * ScrollMagic v2.0.8 (2020-08-14)
+ * The javascript library for magical scroll interactions.
+ * (c) 2020 Jan Paepke (@janpaepke)
+ * Project Website: http://scrollmagic.io
+ * 
+ * @version 2.0.8
+ * @license Dual licensed under MIT license and GPL.
+ * @author Jan Paepke - e-mail@janpaepke.de
+ *
+ * @file ScrollMagic GSAP Animation Plugin.
+ *
+ * requires: GSAP ~1.14
+ * Powered by the Greensock Animation Platform (GSAP): http://www.greensock.com/js
+ * Greensock License info at http://www.greensock.com/licensing/
+ */
 
 /*!
  * ScrollMagic v2.0.8 (2020-08-14)

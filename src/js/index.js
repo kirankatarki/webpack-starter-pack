@@ -2,14 +2,17 @@ import _ from 'lodash';
 import printMe from './print.js'
 import '@popperjs/core';
 import 'bootstrap';
-import './style.scss';
+import '../scss/style.scss';
 import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import $ from 'jquery';
 import 'slick-carousel';
 
 import { Linear } from 'gsap';
+
 import ScrollMagic from 'scrollmagic';
+import 'animation.gsap';
+import 'debug.addIndicators';
 
 function component() {
     const element = document.createElement('div');
