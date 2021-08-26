@@ -7,6 +7,7 @@ import 'slick-carousel/slick/slick.css'
 import 'slick-carousel/slick/slick-theme.css'
 import $ from 'jquery';
 import 'slick-carousel';
+import fullpage from 'fullpage.js';
 
 import { Linear } from 'gsap';
 
